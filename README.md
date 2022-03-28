@@ -7,9 +7,10 @@ and finally we have a separate page for you to share your experiences and storie
 
 
 ## :label: TEAM MEMBERS
+   - [Srishti Mahajan](https://github.com/charu-878)
    - [Kanika Mahindroo](https://github.com/119kanika)
    - [Rompy Roshni](https://github.com/rompyroshni31)
-   - [Srishti Mahajan](https://github.com/charu-878)
+  
 
 ## :label: TECHNOLOGIES USED
 ```
@@ -21,5 +22,5 @@ and finally we have a separate page for you to share your experiences and storie
 ```
 
 # :label: LINKS
- [Github]()
+ [Github](https://charu-878.github.io/Gracious-Givers.github.io/)
  
